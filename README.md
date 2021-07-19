@@ -24,6 +24,7 @@ First of all, there are 4 versions of the poster:
 
 ### Why is it represented around a circle?
 The circle that you see is called the circle of fifths. It highlights the relation between scales by placing the closest scales next to each other.
+
 *For example: 
 The closest scales to C are F and G, there is only one note that changes from F to C, same when you go from C to G.*
 
