@@ -1,4 +1,4 @@
-# Piano scales poster
+# Piano Scales Poster
 ![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-ND-4.0&color=green)
 
 This poster is a visual reference to help pianists / producers learn and identify the major and minor scales.
@@ -14,11 +14,11 @@ First of all, there are 4 versions of the poster:
     - one in png
 
 
-**This is the classic version**
+**This is the classic version:**
 
 ![alt text](Piano-Scales.png)
 
-**This is the legacy colors version**
+**This is the legacy colors version:**
 
 ![alt text](Piano-Scales_legacy-colors.png)
 
@@ -35,6 +35,8 @@ There are 12 major scales and 12 minor scales, the red ones are the major and th
 The numbers are the fingerings for the piano. On the top you can see the right hand fingerings and on the bottom the left hand fingerings. It was chosen to put them in that specific order to be consistent with the grand staff that puts the right hand on top and the left hand at the bottom.
 
 ## You can help make this poster better!
-If you want to help make this poster better or this description, don't hesitate to contact me via this github, leave a comment in the "Issues" tab, where you can specify what is it that needs to be changed or made better, I'll do my best to answer you suggestion and act accordingly.
+If you want to help make this poster better or this description, don't hesitate to contact me via this github, go ahead and create an issue in the [Issues](https://github.com/mercvre/piano-scales/issues) tab, where you can specify what is it that needs to be changed or made better, I'll do my best to answer you suggestion and act accordingly.
 
 ## Want to help me?
+This poster is provided to everyone for free, however if you'd like to say thanks or help support my work, feel free to send me a little something!
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/oranga)
