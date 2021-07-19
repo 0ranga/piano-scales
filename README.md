@@ -13,6 +13,8 @@ First of all, there are 4 versions of the poster:
     - one in pdf
     - one in png
 
+You can download the version you want from the [Releases](https://github.com/mercvre/piano-scales/releases) tab, in the "Assets" section you will find the corresponding file (you don't need to download the "source code" files).
+
 
 **This is the classic version:**
 
