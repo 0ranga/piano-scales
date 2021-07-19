@@ -9,11 +9,16 @@ First of all, there are 4 versions of the poster:
 1. Classic version
     - one in pdf
     - one in png
-2. Legacy color version (only the colors are different than the first version, the colors are the same as the old version of this poster)
+2. Legacy colors version (only the colors are different than the first version, the colors are the same as the old version of this poster)
     - one in pdf
     - one in png
 
+
+> This is the classic version
 ![alt text](Piano-Scales.png)
+
+> This is the legacy colors version
+![alt text](Piano-Scales_legacy-colors.png)
 
 ### Why is it represented around a circle?
 The circle that you see is called the circle of fifths. It highlights the relation between scales by placing the closest scales next to each other.
