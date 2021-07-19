@@ -13,6 +13,8 @@ First of all, there are 4 versions of the poster:
     - one in pdf
     - one in png
 
+![alt text](Piano-Scales.png)
+
 ### Why is it represented around a circle?
 The circle that you see is called the circle of fifths. It highlights the relation between scales by placing the closest scales next to each other.
 *For example: 
