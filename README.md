@@ -15,9 +15,11 @@ First of all, there are 4 versions of the poster:
 
 
 **This is the classic version**
+
 ![alt text](Piano-Scales.png)
 
 **This is the legacy colors version**
+
 ![alt text](Piano-Scales_legacy-colors.png)
 
 ### Why is it represented around a circle?
