@@ -1,5 +1,4 @@
 # Piano scales poster
-*License*
 ![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-ND-4.0&color=green)
 
 This poster is a visual reference to help pianists / producers learn and identify the major and minor scales.
