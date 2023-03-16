@@ -13,7 +13,7 @@ First of all, there are 4 versions of the poster:
     - one in pdf
     - one in png
 
-You can download the version you want from the [Releases](https://github.com/mercvre/piano-scales/releases) tab, in the "Assets" section you will find the corresponding file (you don't need to download the "source code" files).
+You can download the version you want from the [Releases](https://github.com/0ranga/piano-scales/releases) tab, in the "Assets" section you will find the corresponding file (you don't need to download the "source code" files).
 
 
 **This is the classic version:**
@@ -37,7 +37,7 @@ There are 12 major scales and 12 minor scales, the red ones are the major and th
 The numbers are the fingerings for the piano. On the top you can see the right hand fingerings and on the bottom the left hand fingerings. It was chosen to put them in that specific order to be consistent with the grand staff that puts the right hand on top and the left hand at the bottom.
 
 ## You can help make this poster better!
-If you want to help make this poster better or this description, don't hesitate to contact me via this github, go ahead and create an issue in the [Issues](https://github.com/mercvre/piano-scales/issues) tab, where you can specify what is it that needs to be changed or made better, I'll do my best to answer you suggestion and act accordingly.
+If you want to help make this poster better or this description, don't hesitate to contact me via this github, go ahead and create an issue in the [Issues](https://github.com/0ranga/piano-scales/issues) tab, where you can specify what is it that needs to be changed or made better, I'll do my best to answer you suggestion and act accordingly.
 
 ## Want to help me?
 This poster is provided to everyone for free, however if you'd like to say thanks or help support my work, feel free to send me a little something!
